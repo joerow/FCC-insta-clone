@@ -7,7 +7,7 @@ import { extendTheme } from "@chakra-ui/react";
 import { mode } from "@chakra-ui/theme-tools";
 import { BrowserRouter } from "react-router-dom";
 
-//TODO timestamp 25:27
+//TODO timestamp 25:27 https://youtu.be/RMScMwY2B6Q?si=ju0ejAuCWBge0OWE
 
 // 2. Extend the theme to include custom colors, fonts, etc
 const styles = {
